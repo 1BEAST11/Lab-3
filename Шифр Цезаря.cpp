@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <string>
 
 using namespace std;
@@ -53,7 +53,7 @@ int main()
 				{
 					if (phrase[i] == 'a')
 					{
-						phrase[i] == 'z';
+						phrase[i] = 'z';
 					}
 					else
 					{
